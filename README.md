@@ -45,7 +45,7 @@ Enigma_03は**トラボ付き17mm狭ピッチ40%キーボード**です。[Qazik
 
 |商品|数|備考|
 |:-|:-|:-|
-|Enigma_01 3本体|×1|[部品表](docs/parts_main.md)|
+|Enigma_03 本体|×1|[部品表](docs/parts_main.md)|
 |[キーキャップ一式](#2-4-3DP製キーキャップ)|×1|[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)<br>1.0u ×37<br>2.0u ×1<br>2.25u ×1|
 > Enigma_03本体は組み立て済みのため**はんだ付けは必要ありません**。  
 
